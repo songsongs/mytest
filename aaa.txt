@@ -9,5 +9,4 @@
 
 本地修改
 
-login
 Creating a new branch is quick AND simple
